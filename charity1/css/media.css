@@ -1,0 +1,320 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+.logo img{
+    margin-top: 15px;
+}
+.sidenav a {
+    padding: 4px 8px 4px 28px;
+    font-size: 18px;
+}
+/*header end*/
+/*banner start*/
+.banner{
+    padding: 10px 0;
+}
+.banner-text h1{
+    font-size: 40px;
+}
+.banner-text h2 {
+    font-size: 30px;
+}
+.banner-text{
+    margin-top: 0px;
+}
+.ban-btn-c {
+    font-size: 14px;
+}
+.join{
+    margin-top: 20px;
+}
+.cam-scroll{
+    margin-top: 28px;
+    text-align: center;
+}
+.cam-scroll img{
+    width: 20%;
+}
+/*banner end*/
+/*process start*/
+.process{
+    padding: 20px 0;
+}
+.main-heading {
+    font-size: 25px;
+}
+.pr-i-cont {
+    font-size: 18px;
+}
+.pr-icon i{
+    font-size: 50px;
+    padding: 40px;
+    margin-top: 30px;
+}
+ /*process end*/
+ /*help section start*/
+ .helpless{
+    padding: 20px 0;
+}
+.timec ul{
+    font-size: 14px;
+    text-align: center;
+}
+.timec p{
+    font-size: 11px;
+}
+.ct-cus {
+    font-size: 22px;
+}
+.don-price {
+    font-size: 18px;
+}
+.don-p-btn {
+    font-size: 16px;
+}
+.campaign{
+    font-size: 16px;
+    margin-top: 10px;
+}
+/*help section start*/
+/*about start*/
+.about{
+    padding: 20px 0;
+}
+.about-list h3 {
+    font-size: 26px;
+}
+.about-list li {
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+/*about end*/
+/*gallery start*/
+.gallery{
+    padding: 20px 0;
+}
+.all-pic{
+    margin-top: 30px;
+}
+/*gallery end*/
+/*review start*/
+.review{
+    padding: 20px 0;
+}
+.quote-icon{
+    font-size: 40px;
+}
+.icon-top {
+    top: 100px;
+}
+.icon-down {
+    top: 350px;
+}
+/*review end*/
+/*feacher start*/
+.feacher{
+    padding: 20px 0;
+}
+/*feacher end*/
+/*footer start*/
+footer{
+    padding: 20px 0;
+    text-align: center;
+}
+footer h3{
+    font-size: 16px;
+}
+footer ul{
+    font-size: 14px;
+    line-height: 10px;
+}
+/*footer end*/
+}
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.logo img{
+    width: 75%;
+}
+.logo button {
+    margin: 19px 0 0 6px;
+}
+.sidenav a {
+    padding: 4px 8px 4px 28px;
+    font-size: 18px;
+}
+/*header end*/
+/*banner start*/
+.banner-text h1{
+    font-size: 45px;
+}
+.banner-text h2 {
+    font-size: 40px;
+}
+.cam-scroll{
+    margin-top: 28px;
+}
+
+/*banner end*/
+/*process start*/
+.process{
+    padding: 40px 0;
+}
+.main-heading {
+    font-size: 30px;
+}
+.pr-i-cont {
+    font-size: 14px;
+}
+.pr-icon i{
+    font-size: 40px;
+    margin-top: 50px;
+    padding: 35px;
+}
+
+/*process end*/
+/*help section start*/
+.timec ul{
+        text-align: center;
+}
+
+/*help section end*/
+/*review start*/
+.review{
+    padding: 30px 0;
+}
+.quote-icon{
+    font-size: 50px;
+}
+.icon-top {
+    top: 100px;
+}
+.icon-down {
+    top: 299px;
+}
+/*review end*/
+/*feacher start*/
+.feacher{
+    padding: 30px 0;
+}
+/*feacher end*/
+/*footer start*/
+footer{
+    padding: 30px 0;
+    text-align: center;
+}
+/*footer end*/
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.logo img{
+    width: 55%;
+}
+.logo button {
+    margin: 19px 0 0 6px;
+}
+.sidenav a {
+    padding: 4px 8px 4px 28px;
+    font-size: 18px;
+}
+/*header end*/
+/*banner start*/
+.banner-text h1{
+    font-size: 45px;
+}
+.banner-text h2 {
+    font-size: 45px;
+}
+.ban-btn-c {
+    font-size: 15px;
+}
+.cam-scroll{
+	  margin-top: 28px;
+}
+/*banner end*/
+/*process start*/
+.process{
+    padding: 40px 0;
+}
+.main-heading {
+    font-size: 35px;
+}
+.pr-i-cont {
+    font-size: 16px;
+}
+.pr-icon i{
+    margin-top: 70px;
+    padding: 45px;
+}
+/*process end*/
+/*help section start*/
+.helpless{
+    padding: 40px 0;
+}
+/*help section end*/
+/*about section start*/
+.about{
+    padding: 40px 0;
+}
+.about-list h3 {
+    font-size: 26px;
+}
+.about-list li {
+    font-size: 14px;
+    margin-top: 10px;
+}
+/*about section end*/
+/*gallery start*/
+.gallery{
+    padding: 40px 0;
+}
+/*gallery end*/
+/*review start*/
+.review{
+    padding: 40px 0;
+}
+.quote-icon{
+    font-size: 50px;
+}
+.icon-top {
+    top: 100px;
+}
+.icon-down {
+    top: 322px;
+}
+/*review end*/
+/*feacher start*/
+.feacher{
+    padding: 40px 0;
+}
+/*feacher end*/
+/*footer start*/
+footer{
+    padding: 40px 0;
+}
+/*footer end*/
+}
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*header start*/
+.logo button {
+    margin: 19px 0 0 25px;
+}
+.timec p {
+
+    font-size: 11px;
+    }
+.timec ul li {
+    padding: 3px;
+}
+/*hader end*/
+}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
